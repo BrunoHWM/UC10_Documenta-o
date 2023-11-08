@@ -1,4 +1,4 @@
 # UC10_Documenta-o
- Bruno Henrique Werlang Machado
- TDS23-1T-TURMA 7
- Ricardo de Oliveira Pereira
+Nome:Bruno Henrique Werlang Machado
+Turma:TDS23-1T-TURMA 7
+Professor:Ricardo de Oliveira Pereira
