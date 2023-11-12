@@ -10,7 +10,7 @@ Professor: Ricardo de Oliveira Pereira
 Estou gostando bastante das aulas; acho que o material que está sendo apresentado está muito bom, e considero as explicações bem esclarecedoras
 
 Comandos do Git:
-[click here](https://github.com/BrunoHWM/UC10_Documento/blob/main/pagina.md)
+[click here](https://github.com/BrunoHWM/UC10_Documenta-o/blob/main/Comandos%20do%20GIt)
 
 
 Codigo.py:
