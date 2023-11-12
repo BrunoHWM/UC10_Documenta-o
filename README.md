@@ -9,7 +9,7 @@ Professor: Ricardo de Oliveira Pereira
 ## Comentarios sobre as aula: 
 Estou gostando bastante das aulas; acho que o material que está sendo apresentado está muito bom, e considero as explicações bem esclarecedoras
 
-Links:
-[Comandos do Git](https://github.com/BrunoHWM/UC10_Documento/blob/main/pagina.md)
+Comandos do Git:
+[Comando](https://github.com/BrunoHWM/UC10_Documento/blob/main/pagina.md)
 
 
