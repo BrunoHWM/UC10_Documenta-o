@@ -14,5 +14,5 @@ Comandos do Git:
 
 
 Codigo.py:
-[click here](https://github.com/BrunoHWM/UC10_Documento/blob/main/pagina.md)
+[click here](https://github.com/BrunoHWM/UC10_Documenta-o/edit/main/Explicando%20c%C3%B3digo%20em%20python)
 
