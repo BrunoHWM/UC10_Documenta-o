@@ -19,7 +19,7 @@ Puxa as alterações mais recentes do repositório remoto para o repositório lo
 Envia os commits locais para o repositório remoto na branch "main". O -u configura o controle remoto "origin" como padrão para a branch "main".
 
 - **echo "# repositorio" >> README.md** : 
-Adiciona ou sobrescreve o conteúdo do arquivo README.md com o texto "# repositorio".
+Adiciona ou sobrescreve o conteúdo do arquivo README.md.
 
 - **git init** :
 Inicializa um novo repositório Git no diretório atual.
