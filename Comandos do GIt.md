@@ -33,6 +33,6 @@ Registra as alterações no repositório local com a mensagem de commit "first c
 - **git branch -M main** :
 Renomeia a branch atual para "main".
 
-- **git remote add origin https://github.com/BrunoHWM/teste.git** :
+- **git remote add origin https://github.com/BrunoHWM/EXEMPLO.git** :
 Adiciona um repositório remoto chamado "origin" com o URL fornecido.
 
