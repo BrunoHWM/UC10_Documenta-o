@@ -1,6 +1,6 @@
 # Comandos do Git
 ---
-1.git branch -m master main 
+- git branch -m master main 
 Renomeia a branch "master" para "main". Isso é feito para evitar terminologia que possa ser insensível.
 
 - git config --global user.name "SEU NOME"
