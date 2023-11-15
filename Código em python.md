@@ -15,8 +15,8 @@ df.to_excel('nota_aluno.xlsx', index=False)
 ```
 
 
-1. 
-
+1. Esta linha importa a biblioteca Pandas e a renomeia como 'pd',
+o que é uma convenção comum para encurtar o nome da biblioteca para facilitar o uso.
 ```
 import pandas as pd
 ```
