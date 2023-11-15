@@ -14,3 +14,9 @@ df.to_excel('nota_aluno.xlsx', index=False)
 
 ```
 
+
+1. 
+
+```
+import pandas as pd
+```
