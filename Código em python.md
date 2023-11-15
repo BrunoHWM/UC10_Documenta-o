@@ -1,4 +1,3 @@
-# Código em python 
 
 ### Código completo 
 ```
