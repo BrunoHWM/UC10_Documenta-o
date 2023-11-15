@@ -1,7 +1,6 @@
 # Código em python 
 
-
-1. Código completo 
+### Código completo 
 ```
 import pandas as pd
 
