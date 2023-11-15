@@ -32,7 +32,7 @@ df = pd.read_excel("base_notas.xlsx")
 df['Média'] = df[['Nota1', 'Nota2', 'Nota3', 'Nota4']].mean(axis=1)
 ```
 
-4.Este comando salva o DataFrame atualizado em um novo arquivo Excel chamado 'nota_aluno.xlsx'. O parâmetro index=False especifica que não queremos salvar o índice (números das linhas) do DataFrame no arquivo Excel, apenas os dados.
+4. Este comando salva o DataFrame atualizado em um novo arquivo Excel chamado 'nota_aluno.xlsx'. O parâmetro index=False especifica que não queremos salvar o índice (números das linhas) do DataFrame no arquivo Excel, apenas os dados.
 ```
 df.to_excel('nota_aluno.xlsx', index=False)
 ```
