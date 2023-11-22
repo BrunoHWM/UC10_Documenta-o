@@ -38,4 +38,7 @@ há necessidade de lançar um produto derivado nas mesmas condições de antes .
 
 ---
 6. __Licença MIT__
-Algumas pessoas consideram esta opção de licenciamento de software livre a mais popular. Alguns consideram sua principal vantagem a boa compatibilidade com vários tipos de licenças gratuitas ou comerciais. 
+Algumas pessoas consideram esta opção de licenciamento de software livre a mais popular. Alguns consideram sua principal vantagem a boa compatibilidade com vários tipos de licenças gratuitas ou comerciais.
+---
+7. __Rochas subaquáticas__
+Às vezes, o autor escolhe inicialmente uma versão da licença e, posteriormente, deseja alterá-la. Se ele criou o programa sozinho, essa mudança não será difícil. No entanto, nos casos em que houver muitos participantes no desenvolvimento, ele não funcionará sem o consentimento deles. 
