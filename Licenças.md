@@ -14,7 +14,7 @@ Este título se traduz em GNU Lesser General Public License GPL. Para alguns des
 3. __Licença Pública Eclipse__
 Este documento permite a distribuição sob outras licenças, inclusive comerciais . A principal condição é que nas obras modificadas, as inovações sejam colocadas em um módulo separado.
 ---
-4.__Licença Pública Mozilla__
+4. __Licença Pública Mozilla__
 Alguns veem este documento como um meio-termo entre a GPL e as licenças comerciais. É um requisito da MPL
 ter acesso público a determinados arquivos . O produto de software pode conter alguns arquivos sob esta licença e outros sem ela.
 ---
