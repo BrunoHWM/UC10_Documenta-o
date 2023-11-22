@@ -1,11 +1,20 @@
 # Comandos do Git
 ---
 
-
+1. **git branch -m master main:** Renomeia a branch "master" para "main". Isso é feito para evitar terminologia que possa ser insensível.
 ```
 git branch -m master main
 ```
-Renomeia a branch "master" para "main". Isso é feito para evitar terminologia que possa ser insensível.
+---
+2. **git config --global user.name "SEU NOME"**
+```
+git config --global user.name "SEU NOME"
+```
+---
+
+
+
+
 
 - **git config --global user.name "SEU NOME"** :
 Define globalmente o nome do usuário no Git, que será associado aos commits.
