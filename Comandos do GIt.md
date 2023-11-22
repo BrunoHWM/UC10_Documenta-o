@@ -55,7 +55,7 @@ git commit -m "first commit"
 git branch -M main
 ```
 ---
-12. **git remote add NomeDoRepositório https://github.com/SeuUsuario/EXEMPLO.git** :Adiciona um repositório remoto chamado "NomeDoRepositóri" com o URL fornecido.
+12. **git remote add NomeDoRepositório https://github.com/SeuUsuario/EXEMPLO.git** :Adiciona um repositório remoto chamado "NomeDoRepositório" com o URL fornecido.
 ```
 git remote add NomeDoRepositório https://github.com/SeuUsuario/EXEMPLO.git
 ```
