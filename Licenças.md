@@ -6,6 +6,14 @@ __A licença é um documento especial que foi estabelecido pelo formulário do e
 ## Quais os tipos de licenças 
 
 1. __GPL__
+2. __LGPL__
+3. __Licença Pública Eclipse__
+4. __Licença Pública Mozilla__
+5. __Apache License Github__
+6. __Licença MIT__
+---
+
+1. __GPL__
 Essa licença pode ser considerada uma das mais populares. É um clássico para quem faz software. Um dos principais requisitos deste documento é que ele permite que terceiros modifiquem livremente o programa , mas ao mesmo tempo eles têm o direito de distribuir o resultado apenas sob a mesma licença.
 ---
 2. __LGPL__
