@@ -11,6 +11,7 @@ __A licença é um documento especial que foi estabelecido pelo formulário do e
 4. __Licença Pública Mozilla__
 5. __Apache License Github__
 6. __Licença MIT__
+7. __Rochas subaquáticas__
 ---
 
 1. __GPL__
