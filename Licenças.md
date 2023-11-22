@@ -27,6 +27,7 @@ há necessidade de lançar um produto derivado nas mesmas condições de antes .
 - Modificações nos aplicativos são permitidas.
 
 - As redistribuições subsequentes devem incluir o nome do autor original. 
+
 ---
-6. Licença MIT
+6. __Licença MIT__
 Algumas pessoas consideram esta opção de licenciamento de software livre a mais popular. Alguns consideram sua principal vantagem a boa compatibilidade com vários tipos de licenças gratuitas ou comerciais. 
