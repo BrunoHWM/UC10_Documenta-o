@@ -16,3 +16,5 @@ Comandos do Git:
 Codigo.py:
 [click here](https://github.com/BrunoHWM/UC10_Documenta-o/blob/main/C%C3%B3digo%20em%20python.md)
 
+Licensa :
+[click here](https://github.com/BrunoHWM/UC10_Documenta-o/blob/main/Licen%C3%A7as.md)
