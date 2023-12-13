@@ -18,3 +18,6 @@ Codigo.py:
 
 Licensa :
 [click here](https://github.com/BrunoHWM/UC10_Documenta-o/blob/main/Licen%C3%A7as.md)
+
+Quem eu sou:
+[click here](https://github.com/BrunoHWM/BrunoHWM.github.io)
